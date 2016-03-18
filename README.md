@@ -1,6 +1,9 @@
 # TDDin28Minutes
 Learn TDD from in28Minutes. Test Driven Development  for Beginners
 
+##Video Tutorial
+https://www.youtube.com/watch?v=QXo8bCv1BiQ
+
 ##Section 1 What is TDD
 		What is TDD?
 
